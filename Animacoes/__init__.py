@@ -1,0 +1,1 @@
+from Animacoes.animation_2d import run_animation_2d
